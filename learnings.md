@@ -2,7 +2,7 @@
 
 > @author Rakhi-09
 
-# Linux
+## Linux
 - Basic understanding of linux and distros
 - folder structure
 - hands on exp on very basic linux commands
@@ -29,21 +29,21 @@
 		- `sudo systemctl start jenkins`
 	- `crontab`
 	- `lsof`
-- **Yet to explore**
-	- `df`
-	- `dd`
-	- `htop`
-	- `kill`
-	- `ps`
+	- **Yet to explore**
+		- `df`
+		- `dd`
+		- `htop`
+		- `kill`
+		- `ps`
 - user management
 	-  **Yet to explore**
 		- `useradd`
-		-` adduser`
+		- `adduser`
 - shell scripting
 	- `for` loops
 	- `if-else` statements
 
-# Git
+## Git
 - Basics
 	- `init`
 	- `clone`
@@ -57,24 +57,24 @@
 	- `https`
 	- `ssh`
 
-# Jenkins
+## Jenkins
 - Created First Freestyle Job
 	- run python & shell scripting
 	- learned to use Git Plugin 
 		- https
 		- ssh 
 
-# Docker
+## Docker
 - how setup docker
 - run hello world container
 
-# Virtual Machine VBox
+## Virtual Machine VBox
 - how to setup a new VM
 	- tried for ubuntu
 	- learned to allocate resources
 	- learned to change network adapter
 		- made sure u could connect from one Guest OS to Another one
-# SSH & SCP
+## SSH & SCP
 - how to use ssh-client tool
 	- used Putty
 	- used powershell
@@ -82,18 +82,19 @@
 - how to setup `openssh-server`
 	- **Yet to explore**
 - `scp`	
-	- - **Yet to explore**
-# Kubernetives
+	- **Yet to explore**
+
+## Kubernetives
 - **Yet to explore**
 
-# Nagios
+## Nagios
 - **Yet to explore**
 
-# puppet
+## puppet
 - **Yet to explore**
 
-# Ancible
+## Ancible
 - **Yet to explore**
 
-# AWS
+## AWS
 - **Yet to explore**
