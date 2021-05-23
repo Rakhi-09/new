@@ -1,0 +1,3 @@
+[submodule "sample-maven"]
+	path = sample-maven
+	url = https://github.com/xicoder96/sample-maven.git
